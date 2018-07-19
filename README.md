@@ -3,7 +3,7 @@ Projet : emails en masse
 Equipe : Steven ; Luxilux ; Florian Corbice
 Projet : On a envoyer des mails et des tweet au mairie de Guadeloupe pour leurs faire connaitre l'existence de THP
          ,on a tous travaillé sur le projet pour apprendre le travail d'équipe et de plus ça nous ça permis de faire 
-         des révission sur nos connaissances.
+         des révissions sur nos connaissances.
 
 Déroulement: 
 - On a scrapper les mails des mairie de Guadeloupe, Martinique et Réunion  
