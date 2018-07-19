@@ -14,3 +14,7 @@ Déroulement:
 
 utilisation: 
 allez sur votre Terminal 
+
+Faire fonctionner le code: 
+aller sur le Terminal, aller jusqu'au dossier Envoi_d-emails_en_masse,
+
