@@ -14,3 +14,6 @@ Déroulement:
 
 utilisation: 
 allez sur votre Terminal 
+
+
+" sudo gem install gmail "
