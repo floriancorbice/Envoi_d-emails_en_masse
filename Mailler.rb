@@ -22,3 +22,4 @@ to "luxiluxlth@gmail.com"
 	end
 
 # ça marche pô 
+# j'ai aussi éssayé avec API j'ai pus faire le lien entre le compte et mon ordi mais impossible d'envoyé des mails avec sous ruby
