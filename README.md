@@ -6,7 +6,7 @@ Projet : On a envoyer des mails et des tweet au mairie de Guadeloupe pour leurs 
          des révission sur nos connaissances.
 
 Déroulement: 
-- On a scrapper les mails des mairie de Guadeloupe 
+- On a scrapper les mails des mairie de Guadeloupe, Martinique et Réunion  
 - On a enregistrer le tout dans un spreadsheet 
 - On a envoyer des mails au mairie a toutes les mairies du spreadsheet
 - On a envoyer un twitter pour prévenir les mairies de notre mails 
