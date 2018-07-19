@@ -12,5 +12,11 @@ Déroulement:
 - On a envoyer un twitter pour prévenir les mairies de notre mails 
 - et on a tout rangé dans un dossier POO (Programmation Orientée Objet)
 
+Rendu : On a scrapé les adresses mails de Guadeloupe, Martinique et Réunion et on les a mis en CSV 
+        On a pas réussi a envoyé des mails avec le bot 
+        On a cherché les mairies puis on les a follows avec le bot twitter
+
+
 utilisation: 
 allez sur votre Terminal 
+
